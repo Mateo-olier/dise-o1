@@ -1,0 +1,32 @@
+.contenido {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle
+}
+
+.contenido h1 {
+    font-size: 50px;
+}
+
+.contenido p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.contenido a {
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #4a4a4a;
+    border-radius: 80%;
+    display: inline-block;
+    position: relative;
+}
+
+.contenido a img {
+    width: 30px;
+    height: 30px;
+}
